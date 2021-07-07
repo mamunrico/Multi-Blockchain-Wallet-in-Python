@@ -3,7 +3,7 @@
 **Table of Contents**
 =====================
 
-- [hd-wallet-derive](#hd-wallet-derive)
+- [hd-wallet-derive] (#hd-wallet-derive)
 - [Path Preset examples.] (#path-preset-examples)
   * [Obtaining a list of preset paths.](#obtaining-a-list-of-preset-paths)
   * [Deriving addresses for bitcoin-core using preset path.](#deriving-addresses-for-bitcoin-core-using-preset-path)
